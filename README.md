@@ -23,6 +23,10 @@ I'm currently learning in Playdata full stack developer.
 
 ![Static Badge](https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff)
+
+
 
 </br>
 
@@ -36,12 +40,6 @@ I'm currently learning in Playdata full stack developer.
 </br>
 
 </br>
-
-</br>
-
-### Baekjoon Online Judge
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=11tnwls12)](https://solved.ac/11tnwls12)
 
 </br>
 

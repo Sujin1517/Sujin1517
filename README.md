@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning in Playdata full stack developer.
+I'm currently learning full stack developer.
 
 </br>
 
